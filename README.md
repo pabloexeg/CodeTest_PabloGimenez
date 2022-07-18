@@ -66,7 +66,6 @@ Task 6 - Automate API
 Given the REST API: https://developers.giphy.com/docs/api/endpoint#search  
 And this call to retrieve a list of GIFs: http://api.giphy.com/v1/gifs/search?q=funny+dog&api_key=dc6zaTOxFJmzC  
 Your task is to extensively Automate that API endpoint with assertions using java programming language. You can use the provided api_key: it's a public key for testing out that API.  
-  
 	> Answer: I didn't automate Api testing before. I tried to solve it but I couldn't it due to deadline to delivery the CodeTest   
   
 Task 7 - Given a string say "CODE". Now create a new string with duplicates of each character in the original string and to it append the reverse of the same string (with duplicates) excluding the last character.  ex: step: CCOODDEE > Step: EEDDOOCC > finalResult: EEDDOOC  
