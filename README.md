@@ -35,7 +35,7 @@ Task 2 - Automation
 		driver.switchTo().defaultContent();  // Switch to Frame to window  
   
 Task 3 - There are 10 pages in same window, an image is present in any page out of ten pages in same window. How will you validate this scenario with example?  
-	Answer: I will get the amount of frames in the page. I will do a for loop and switchTo() for each frame and check if image present. Repeat this process until locate the image and after that finish the loop  
+	> Answer: I will get the amount of frames in the page. I will do a for loop and switchTo() for each frame and check if image present. Repeat this process until locate the image and after that finish the loop  
   
 Task 4 - Can we call parent class constructor in sub class constructor i.e constructor chaining by using super keyword?  
 	Answer: Yes, we can  
