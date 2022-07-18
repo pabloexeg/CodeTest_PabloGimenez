@@ -2,7 +2,7 @@
 CodeTest_PabloGimenez
 
 ## Description:
-It is the answer for CodeTest to Role SDET
+This repository has the answers and code for CodeTest to Role SDET
 
 ## Installation:
 We need to install the following tools
